@@ -1,3 +1,6 @@
+# How to run
+Just put these files in a local server and browse to that in the server using any web browser. Also the Database(mysql) file is given named 'wt_project.sql' make sure to import that to the database server. Here phpMyAdmin was used.
+
 # EDWeb
 Educational web portal
 Made using Php, javaScript, Html
