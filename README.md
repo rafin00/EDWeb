@@ -15,7 +15,7 @@ Teachers can give grades to students and the student can view them in this page
 4. Go to Registration : 
 When registrations for next semester is open here Students can register for the next semester by selecting which courses to take. Also teachers also register here for which courses they wish to teach in the next semester. (Registrations are confirmed by admin)
 
-Types of Users,
+Types of User:
 1. Students : 
 Students can not create their own accounts it is created for them by the admin. Students can check grades, post, comment, and message other users.
 2. Teachers : 
